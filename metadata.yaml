@@ -1,0 +1,34 @@
+_repo: The-case-of-Oscar-Slater_69704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2023-01-04'
+identifiers:
+  gutenberg: '69704'
+language: en
+pgterms:marc904: https://archive.org/details/caseofoscarslate00doylrich
+pgterms:marc905: 20211206114622doyle
+pgterms:marc906: '1912'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: Hodder & Stoughton,1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The case of Oscar Slater
+url: http://www.gutenberg.org/ebooks/69704
