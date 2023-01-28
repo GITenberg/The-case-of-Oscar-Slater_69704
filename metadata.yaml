@@ -1,5 +1,8 @@
 _repo: The-case-of-Oscar-Slater_69704
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69704-h/images/cover.jpg
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69704#The-case-of-Oscar-Slater
 gutenberg_issued: '2023-01-04'
 identifiers:
   gutenberg: '69704'
